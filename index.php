@@ -9,6 +9,7 @@ require_once 'config.php';
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
+	
 	<h1>CRUD DENGAN PHP MySQLi</h1>
 
 

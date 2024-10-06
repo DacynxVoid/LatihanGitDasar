@@ -10,6 +10,8 @@ require_once 'config.php';
 </head>
 <body>
 	<h1>INI HALAMAN ABOUT</h1>
+
+	<h2>ada perubahan di lokal</h2>
 	
 </body>
 </html>
