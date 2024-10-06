@@ -10,6 +10,8 @@ require_once 'config.php';
 </head>
 <body>
 	<h1>INI HALAMAN ABOUT</h1>
+
+	<p>ada perubagan di online</p>
 	
 </body>
 </html>
