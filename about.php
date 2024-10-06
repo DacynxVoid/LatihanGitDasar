@@ -11,7 +11,7 @@ require_once 'config.php';
 <body>
 	<h1>INI HALAMAN ABOUT</h1>
 
-	<h2>ada perubahan di lokal</h2>
+	<p>ada perubagan di online</p>
 	
 </body>
 </html>
